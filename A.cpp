@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main() {
-  cout<<"gngfrfj.kjkhjm";
+  cout<<"my first program";
   return 0;
 }
